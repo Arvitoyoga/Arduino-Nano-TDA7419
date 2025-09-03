@@ -1,7 +1,7 @@
 # Arduino-Nano-TDA7419
-=====================================================================
+
 Program Kontrol Audio TDA7419 dengan Arduino
-=====================================================================
+
 
 Deskripsi:
 Program ini digunakan untuk mengontrol IC audio processor TDA7419 
