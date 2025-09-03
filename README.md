@@ -3,7 +3,6 @@
 Program Kontrol Audio TDA7419 dengan Arduino
 
 
-Deskripsi:
 Program ini digunakan untuk mengontrol IC audio processor TDA7419 
 menggunakan Arduino. Kontrol dilakukan melalui beberapa tombol dan 
 rotary encoder. Selain itu, terdapat input spektrum audio untuk 
